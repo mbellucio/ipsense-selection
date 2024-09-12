@@ -39,7 +39,7 @@ The most downloaded books are "Romeo and Juliet" and "Moby Dick". Again, very lo
 When looking the relation between author birth year and downloads we can see 
 that the majority of downloads are from books dating the 17th, 18th and 19th century. This corroborates with the points we made above.
 
-Finally when taking a look at the most populart authors, Shakespeare appears in the first place, an author from the 17th.
+Finally when taking a look at the most populart authors, Shakespeare appears in the first place, an author from the 17th century.
 
 By analysing this data one thing we can conclude from the Project Gutemberg:
 This project is bringing to this new digital world access to old literature and classics, a vital thing to not loose the work from the past, and keeping literature alive, in this paperless world.

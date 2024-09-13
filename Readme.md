@@ -11,7 +11,7 @@
 
 First, we need to create our env. On terminal:
 
-<code>python -m venv env</code> then <code>./env/Scripts/activate.ps1</code>
+<code>python -m venv env</code> then <code>./env/Scripts/Activate.ps1</code>
 
 Then run: 
 <code>pip install -r requirements.txt</code>
@@ -20,13 +20,19 @@ This will create, activate and download all dependencies into our env.
 
 ## About this project
 
-Using the [Gutendex API](https://gutendex.com/), to retrieve data and study the Project Gutemberg, i've came up with a few points of interest:
+Using the [Gutendex API](https://gutendex.com/), to retrieve data and study the Project Gutemberg, I've came up with a few points of interest:
 
 - Books per author
 - Top 10 genres
 - Top 10 most downloaded books
 - Relation between author Birth Year and Downloads/Popularity
 - Most popular Authors
+
+And Using pandasai LLM I've asked a few questions that could not be retrieved programatically from the data:
+
+- Rank british authors by download
+- Rank russian authors by download
+- Rank centuries by downloaded books
 
 ## Conclusion
 

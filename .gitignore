@@ -3,3 +3,4 @@ env
 pandasai.log
 cache
 .vscode
+exports
